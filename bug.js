@@ -1,0 +1,1 @@
+While developing a React Native application using Expo CLI, I encountered an unusual error where the application would crash silently on Android devices after a specific action, without providing any error messages in the console or logs. The application worked perfectly on iOS devices.
