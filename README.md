@@ -1,0 +1,1 @@
+This repository contains a reproduction of a silent crash bug encountered in a React Native application built with Expo CLI. The bug manifests only on Android devices and does not provide any error messages or logs. The solution involves identifying the root cause of the crash and implementing a fix that ensures stable operation on all platforms.
